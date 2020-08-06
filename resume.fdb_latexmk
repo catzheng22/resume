@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1596599161 "/Users/catzheng/Coding/resume/resume.tex" "/Users/catzheng/Coding/resume/resume.pdf" "resume" 1596599187
-  "/Users/catzheng/Coding/resume/resume.aux" 1596599161 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "/Users/catzheng/Coding/resume/resume.tex" 1596599160 5020 1c3fa3ce95f9bcddb6b71f8f7217da94 ""
+["pdflatex"] 1596685017 "/Users/catzheng/Coding/resume/resume.tex" "/Users/catzheng/Coding/resume/resume.pdf" "resume" 1596685018
+  "/Users/catzheng/Coding/resume/resume.aux" 1596685018 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "/Users/catzheng/Coding/resume/resume.tex" 1596685017 5078 c5a4fb26032258669e27b6b9419942ca ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1246382020 996 a18840b13b499c08ac2de96a99eda4bc ""
@@ -70,14 +70,14 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "resume.aux" 1596599161 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "resume.out" 1596599161 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1596599160 5020 1c3fa3ce95f9bcddb6b71f8f7217da94 ""
+  "resume.aux" 1596685018 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "resume.out" 1596685017 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1596685017 5078 c5a4fb26032258669e27b6b9419942ca ""
   (generated)
-  "resume.aux"
   "/Users/catzheng/Coding/resume/resume.aux"
+  "resume.aux"
   "resume.pdf"
   "/Users/catzheng/Coding/resume/resume.log"
-  "resume.log"
   "/Users/catzheng/Coding/resume/resume.pdf"
+  "resume.log"
   "resume.out"
